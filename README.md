@@ -1,2 +1,2 @@
-# simple_board
-simple_board
+# memo
+간편메모장 (DB연동)
